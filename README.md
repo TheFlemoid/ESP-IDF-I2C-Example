@@ -1,6 +1,6 @@
 # ESP-IDF New I2C ADXL345 Demo
 
-<H2>Quick demo showing how to use the "new" ESP-IDF I2C master library utilizing and ADXL345 I2C accelerometer.</H2>
+<H2>Quick demo showing how to use the "new" ESP-IDF I2C master library utilizing an ADXL345 I2C accelerometer.</H2>
 
 I wanted to do a quick "scratchpad" project to figure out how the new [ESP-IDF I2C](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/peripherals/i2c.html) library worked, and I also wanted to play around with an I2C accelerometer for an upcoming project.  This worked well enough that I thought it might be a good reference for working with the ESP-IDF I2C library in the future.
 
