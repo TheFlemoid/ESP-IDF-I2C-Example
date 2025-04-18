@@ -29,4 +29,4 @@ This repo is mostly stood up to be a reference of the steps necessary to set up 
 | GPIO 19 | E |
 | GND | RW |
 
-That said, this repo is mostly designed to be a reference on the utilization of the ESP-IDF I2C master library.  A review of the repos [sole source file](./main/main.c) should show step by step instructions on how to initialize an I2C bus, register an I2C device, and actually communicate with said device.
+That said, this repo is mostly designed to be a reference on the utilization of the ESP-IDF I2C master library.  A review of the repos [sole source file](./main/adxl345_demo.c) should show step by step instructions on how to initialize an I2C bus, register an I2C device, and actually communicate with said device.

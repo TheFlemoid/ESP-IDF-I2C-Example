@@ -1,3 +1,11 @@
+/**
+ * File:       adxl345_demo.c
+ * Author:     Franklyn Dahlberg
+ * Created:    17 April, 2025
+ * Copyright:  2025 (c) Franklyn Dahlberg
+ * License:    MIT License (see https://choosealicense.com/licenses/mit/)
+ */
+
 #include <stdio.h>
 #include "HD44780.h"
 #include "esp_log.h"
